@@ -54,5 +54,4 @@ Some of the areas I have worked on include:
 
 ## Contact
 
-- LinkedIn: [www.linkedin.com/in/danny-j-barrios]
-- GitHub: https://github.com/DannyXGT
+[LinkedIn](https://www.linkedin.com/in/danny-j-barrios) · [GitHub](https://github.com/DannyXGT)
