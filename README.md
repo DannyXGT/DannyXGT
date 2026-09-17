@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Danny 👋
 
-<!--
-**DannyXGT/DannyXGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Developer and Systems Engineering student from Guatemala.
 
-Here are some ideas to get you started:
+I build web and desktop applications using React, Python, Electron and PostgreSQL, with experience in enterprise systems, process automation, APIs, SQL and performance optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Main stack**
+- React
+- JavaScript
+- Python
+- PostgreSQL
+- SQL
+- Electron
+
+**Backend**
+- Flask
+- REST APIs
+
+**Other languages**
+- Java
+- Go
+- C++
+- Ruby
+
+**Tools**
+- Git
+- GitHub
+- Postman
+- pgAdmin
+- VS Code
+
+## Current Work
+
+### Laboratory Information Management System (LIMS)
+
+Currently working on an enterprise LIMS used to support laboratory planning, tracking and operational workflows.
+
+Some of the areas I have worked on include:
+
+- Job planning and tracking
+- Scanner-driven workflows
+- Dashboards and KPIs
+- SQL reporting
+- User permissions and audit trails
+- Performance optimization
+- Desktop printing
+- Multi-user LAN operation
+
+**Tech:** React · Electron · Python · PostgreSQL · SQL
+
+> Source code is private due to company confidentiality requirements.
+
+## Contact
+
+- LinkedIn: [YOUR LINKEDIN URL]
+- GitHub: https://github.com/DannyXGT
